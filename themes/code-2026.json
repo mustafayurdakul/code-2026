@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "VS Code - 2026",
+  "name": "Code - 2026",
   "author": "Mustafa Yurdakul",
   "themes": [
     {
-      "name": "VS Code - 2026 Dark",
+      "name": "Code - 2026 Dark",
       "appearance": "dark",
       "style": {
         "border": "#333536ff",
@@ -422,7 +422,7 @@
       }
     },
     {
-      "name": "VS Code - 2026 Light",
+      "name": "Code - 2026 Light",
       "appearance": "light",
       "style": {
         "border": "#d8d8d8ff",
